@@ -5,6 +5,15 @@
 </p>
 <br />
 
+## Changes from original AirBar
+- changed background gradient and content view
+- Polish localization
+
+<p align="center">
+  <img src="https://i.imgur.com/8XYFxVh.png" />
+  <img src="https://i.imgur.com/nxTSrif.png" />
+</p>
+
 ## Description
 
 AirBar is a library for creating cool expandable menus.
